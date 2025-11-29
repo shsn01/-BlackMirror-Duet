@@ -11,3 +11,7 @@ Feed it any token/idea → 48 hours later it’s top-1 or dead.
 Pure prompting. Zero code. 100% legal chaos.
 
 AHIHI 5050X 🪞💀🚀
+
+> “All agents here obey the Before-the-Blink Protocol.”
+
+> All specs validated against strict JSON schema.
